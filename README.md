@@ -23,4 +23,8 @@ and getch(); holds output
 
 ![image](https://github.com/user-attachments/assets/6a4e5fc0-07dd-438b-8078-3d122b1191ce)
 
+## Inspiration
+
+There is a app called Amihub but due to cloudflare integration the college website, app is not working so taking idea from there I made attendence calculator for my convinence.
+
 
