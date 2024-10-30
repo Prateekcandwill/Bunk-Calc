@@ -19,5 +19,8 @@ Use #include<conio.h> it is for console input output
 clrscr(); clears previous output
 and getch(); holds output
 
+## Demo usgae
+
+![image](https://github.com/user-attachments/assets/6a4e5fc0-07dd-438b-8078-3d122b1191ce)
 
 
